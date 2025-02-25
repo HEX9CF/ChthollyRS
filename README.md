@@ -1,4 +1,4 @@
-# Chtholly Recommendation System
+# Chtholly Recommender System
 
 ## 项目简介
 
